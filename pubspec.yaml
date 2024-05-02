@@ -1,7 +1,7 @@
 name: nice_container
 description: "Use nice container just like plug and play"
 version: 0.0.1
-homepage:
+homepage: https://github.com/taufiqurSabbir/nice_container.git
 
 environment:
   sdk: '>=3.3.4 <4.0.0'
